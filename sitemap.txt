@@ -1,2 +1,3 @@
+http://example.com/manifest.json
 http://example.com/posts/16107.html
 http://example.com/
