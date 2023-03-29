@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【操作系统】第三章 内存管理</title>
+      <link href="/posts/a575ca89.html"/>
+      <url>/posts/a575ca89.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="第三章-知识体系"><a href="#第三章-知识体系" class="headerlink" title="第三章 知识体系"></a>第三章 知识体系</h2><p><img src="https://img-blog.csdnimg.cn/d5e76a2a56ba41c1949efbe7a3d40a0f.png" alt="在这里插入图片描述"></p><h3 id="3-1-内存管理概念"><a href="#3-1-内存管理概念" class="headerlink" title="3.1 内存管理概念"></a>3.1 内存管理概念</h3><h4 id="3-1-1-内存管理的基本原理和要求"><a href="#3-1-1-内存管理的基本原理和要求" class="headerlink" title="3.1.1 内存管理的基本原理和要求"></a>3.1.1 内存管理的基本原理和要求</h4><p><img src="https://img-blog.csdnimg.cn/f9a39fb59d914a69bdf366165360b581.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/7a489f128f15423c8218c01b602869cf.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/75ca7b2a95574cea865cc53f85c4e74e.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/0769190bfe434bc0956a2cdb5f92559a.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/c5e8a4177634451bb73aba2e3037abd4.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/a5021768017d4b5f9c8b545da182c93b.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/735502412bf747908bf22ec42d3c95b8.png" alt="在这里插入图片描述"></p><h4 id="3-1-2-覆盖和交换"><a href="#3-1-2-覆盖和交换" class="headerlink" title="3.1.2 覆盖和交换"></a>3.1.2 覆盖和交换</h4><p><img src="https://img-blog.csdnimg.cn/baabce00c20d46809c39fb39df7cc7cf.png" alt="在这里插入图片描述"></p><h4 id="3-1-3-连续分配管理方式"><a href="#3-1-3-连续分配管理方式" class="headerlink" title="3.1.3 连续分配管理方式"></a>3.1.3 连续分配管理方式</h4><p><img src="https://img-blog.csdnimg.cn/6d09d8a837e143808788a0a2b9720553.png" alt="在这里插入图片描述"></p><h4 id="3-1-4-基本分页存储管理"><a href="#3-1-4-基本分页存储管理" class="headerlink" title="3.1.4 基本分页存储管理"></a>3.1.4 基本分页存储管理</h4><p><img src="https://img-blog.csdnimg.cn/3cdda505880b4bbbb8a51ebebcbf5eae.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/23c8cf963bcc4265bb480b5acee0b370.png" alt="在这里插入图片描述"></p><h4 id="3-1-5-基本分段存储管理"><a href="#3-1-5-基本分段存储管理" class="headerlink" title="3.1.5 基本分段存储管理"></a>3.1.5 基本分段存储管理</h4><p><img src="https://img-blog.csdnimg.cn/c24fe2ceeb0a415db8d93c3bb7625420.png" alt="在这里插入图片描述"></p><h4 id="3-1-6-段页式管理"><a href="#3-1-6-段页式管理" class="headerlink" title="3.1.6 段页式管理"></a>3.1.6 段页式管理</h4><p><img src="https://img-blog.csdnimg.cn/3d157ff1bb774fd898f1f75c0f34832e.png" alt="在这里插入图片描述"></p><h4 id="3-1-7-分页、分段与段页式的比较"><a href="#3-1-7-分页、分段与段页式的比较" class="headerlink" title="3.1.7 分页、分段与段页式的比较"></a>3.1.7 分页、分段与段页式的比较</h4><p><img src="https://img-blog.csdnimg.cn/d7514bdc24914610b4c7bd567d082d4f.png" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/335c98eb3cbe43e69dc6a08f4aa86f25.png" alt="在这里插入图片描述"></p><h3 id="3-2-虚拟内存管理"><a href="#3-2-虚拟内存管理" class="headerlink" title="3.2 虚拟内存管理"></a>3.2 虚拟内存管理</h3><p><img src="https://img-blog.csdnimg.cn/2466f2953c5748ffa2b1812ba6401f74.png" alt="在这里插入图片描述"></p><h4 id="3-2-1-虚拟内存的基本概念"><a href="#3-2-1-虚拟内存的基本概念" class="headerlink" title="3.2.1 虚拟内存的基本概念"></a>3.2.1 虚拟内存的基本概念</h4><p><img src="https://img-blog.csdnimg.cn/200007c12c174d1f85380d05b9a3ae7a.png" alt="在这里插入图片描述"></p><h4 id="3-2-2-请求分页管理方式"><a href="#3-2-2-请求分页管理方式" class="headerlink" title="3.2.2 请求分页管理方式"></a>3.2.2 请求分页管理方式</h4><p><img src="https://img-blog.csdnimg.cn/74b07e45afcb45fd95bf289a7b3cf07b.png" alt="在这里插入图片描述"></p><h4 id="3-2-3-页框分配"><a href="#3-2-3-页框分配" class="headerlink" title="3.2.3 页框分配"></a>3.2.3 页框分配</h4><p><img src="https://img-blog.csdnimg.cn/fc7b8926efdc41db8cf5fb639e3a609b.png" alt="在这里插入图片描述"></p><h4 id="3-2-4-页面置换算法"><a href="#3-2-4-页面置换算法" class="headerlink" title="3.2.4 页面置换算法"></a>3.2.4 页面置换算法</h4><p><img src="https://img-blog.csdnimg.cn/13f8468f22ff473e8a7133f0a5a8d5ab.png" alt="在这里插入图片描述"></p><h4 id="3-2-5-抖动和工作集"><a href="#3-2-5-抖动和工作集" class="headerlink" title="3.2.5 抖动和工作集"></a>3.2.5 抖动和工作集</h4><p><img src="https://img-blog.csdnimg.cn/07d6a786ac074e4ba74b908d9360541b.png" alt="在这里插入图片描述"></p><h4 id="3-2-6-内存映射文件"><a href="#3-2-6-内存映射文件" class="headerlink" title="3.2.6 内存映射文件"></a>3.2.6 内存映射文件</h4><p><img src="https://img-blog.csdnimg.cn/4ad5edfd47e2494cac31ea354cef970b.png" alt="在这里插入图片描述"></p><h4 id="3-2-7-虚拟存储器性能影响因素"><a href="#3-2-7-虚拟存储器性能影响因素" class="headerlink" title="3.2.7 虚拟存储器性能影响因素"></a>3.2.7 虚拟存储器性能影响因素</h4><p><img src="https://img-blog.csdnimg.cn/72dc6cc49b8c4008ab7d2c26dff11487.png" alt="因素"></p><h4 id="3-2-8-地址翻译"><a href="#3-2-8-地址翻译" class="headerlink" title="3.2.8 地址翻译"></a>3.2.8 地址翻译</h4><p>待补充…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 操作系统 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 内存管理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【数据结构】第四章 串</title>
       <link href="/posts/9250aaf9.html"/>
       <url>/posts/9250aaf9.html</url>
