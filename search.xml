@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【计算机网络】第三章 数据链路层</title>
+      <link href="/posts/f3e28c67.html"/>
+      <url>/posts/f3e28c67.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="第三章-知识体系"><a href="#第三章-知识体系" class="headerlink" title="第三章 知识体系"></a>第三章 知识体系</h2><p><img src="https://img-blog.csdnimg.cn/70fcdc1c0b4d490ca04594c999d24fb0.png" alt="在这里插入图片描述"></p><h3 id="3-1-数据链路层的功能"><a href="#3-1-数据链路层的功能" class="headerlink" title="3.1 数据链路层的功能"></a>3.1 数据链路层的功能</h3><p><img src="https://img-blog.csdnimg.cn/e06c5cd4aa46441fbd4781344c66b046.png" alt="在这里插入图片描述"></p><h3 id="3-2-组帧"><a href="#3-2-组帧" class="headerlink" title="3.2 组帧"></a>3.2 组帧</h3><p><img src="https://img-blog.csdnimg.cn/e991cf443e5048a59a9cdd8cb2cc2077.png" alt="在这里插入图片描述"></p><h3 id="3-3-差错控制"><a href="#3-3-差错控制" class="headerlink" title="3.3 差错控制"></a>3.3 差错控制</h3><p><img src="https://img-blog.csdnimg.cn/c2914b1a6ef14fa8b1cf3c29881347e8.png" alt="在这里插入图片描述"></p><h3 id="3-4-流量控制与可靠传输机制"><a href="#3-4-流量控制与可靠传输机制" class="headerlink" title="3.4 流量控制与可靠传输机制"></a>3.4 流量控制与可靠传输机制</h3><h4 id="3-4-1-流量控制、可靠传输与滑动窗口机制"><a href="#3-4-1-流量控制、可靠传输与滑动窗口机制" class="headerlink" title="3.4.1 流量控制、可靠传输与滑动窗口机制"></a>3.4.1 流量控制、可靠传输与滑动窗口机制</h4><p><img src="https://img-blog.csdnimg.cn/2889d1aa2c2f47cd9f5543cc1a54e4c5.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/82ce93da379843f2a19eb211b7394d3b.png" alt="在这里插入图片描述"></p><h4 id="3-4-2-单帧滑动窗口与停止-等待协议"><a href="#3-4-2-单帧滑动窗口与停止-等待协议" class="headerlink" title="3.4.2 单帧滑动窗口与停止-等待协议"></a>3.4.2 单帧滑动窗口与停止-等待协议</h4><p><img src="https://img-blog.csdnimg.cn/89c4ec217c874021a0d9bb6ad07bedde.png" alt="在这里插入图片描述"></p><h4 id="3-4-3-多帧滑动窗口与后退N帧协议（GBN）"><a href="#3-4-3-多帧滑动窗口与后退N帧协议（GBN）" class="headerlink" title="3.4.3 多帧滑动窗口与后退N帧协议（GBN）"></a>3.4.3 多帧滑动窗口与后退N帧协议（GBN）</h4><p><img src="https://img-blog.csdnimg.cn/8e0e8922424e4bb7a9971c32bc5809ad.png" alt="在这里插入图片描述"></p><h4 id="3-4-4-多帧滑动窗口与选择重传协议（SR）"><a href="#3-4-4-多帧滑动窗口与选择重传协议（SR）" class="headerlink" title="3.4.4 多帧滑动窗口与选择重传协议（SR）"></a>3.4.4 多帧滑动窗口与选择重传协议（SR）</h4><p><img src="https://img-blog.csdnimg.cn/86e2a97c2380465389f32bbedae29951.png" alt="在这里插入图片描述"></p><h3 id="3-5-介质访问控制"><a href="#3-5-介质访问控制" class="headerlink" title="3.5 介质访问控制"></a>3.5 介质访问控制</h3><h4 id="3-5-1-信道划分介质访问控制"><a href="#3-5-1-信道划分介质访问控制" class="headerlink" title="3.5.1 信道划分介质访问控制"></a>3.5.1 信道划分介质访问控制</h4><p><img src="https://img-blog.csdnimg.cn/f57199429a7b47dfba667dd3ea2a1bd4.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/9d75a91e774941dbb47f39348ba48ecd.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/cc74230af0ff40faa3c068bc04a2cf9c.png" alt="在这里插入图片描述"></p><h4 id="3-5-2-随机访问介质访问控制"><a href="#3-5-2-随机访问介质访问控制" class="headerlink" title="3.5.2 随机访问介质访问控制"></a>3.5.2 随机访问介质访问控制</h4><p><img src="https://img-blog.csdnimg.cn/d009aaabc4e447db96aac31dd9f41f01.png" alt="在这里插入图片描述"></p><h5 id="（1）CSMA"><a href="#（1）CSMA" class="headerlink" title="（1）CSMA"></a>（1）CSMA</h5><p><img src="https://img-blog.csdnimg.cn/4ffea3ef74664299861f04dbaa17e53b.png" alt="在这里插入图片描述"></p><h5 id="（2）CSMA-CD"><a href="#（2）CSMA-CD" class="headerlink" title="（2）CSMA/CD"></a>（2）CSMA/CD</h5><p><img src="https://img-blog.csdnimg.cn/b7098b780fad48b3b12b0e4f525487f9.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/acc3ebb0f8b34f9187f30c9fe660454a.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/dac06b4a926e49c2b24aa85b4e631f0f.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/e602e3928f9a4b82b664394efa4d953c.png" alt="在这里插入图片描述"></p><h5 id="（3）CSMA-CA"><a href="#（3）CSMA-CA" class="headerlink" title="（3）CSMA/CA"></a>（3）CSMA/CA</h5><p>无线局域网使用的协议<br><img src="https://img-blog.csdnimg.cn/57dfabaf1b394021a812fa858cf28aea.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/8798100a9e934f64b0ba57c9df69b639.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/7f486e1c029f415db61ad603de05c983.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/b6a02b4ede1c49ada026cc70c66e3491.png" alt="在这里插入图片描述"></p><h5 id="（4）令牌传递协议"><a href="#（4）令牌传递协议" class="headerlink" title="（4）令牌传递协议"></a>（4）令牌传递协议</h5><p><img src="https://img-blog.csdnimg.cn/442238fb4ccb4561beb5195434ed1534.png" alt="在这里插入图片描述"></p><h3 id="3-6-局域网"><a href="#3-6-局域网" class="headerlink" title="3.6 局域网"></a>3.6 局域网</h3><p><strong>MAC地址</strong><br><img src="https://img-blog.csdnimg.cn/1570a645f75b4221a0b2d08fc325a60f.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/673951d3db5b426488cbf2892e6e1a72.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/bfc1657c7c834852bcd4c4d5687d4f94.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/f99169b53dc0490c878d5200b62b1890.png" alt="在这里插入图片描述"></p><h3 id="3-7-广域网"><a href="#3-7-广域网" class="headerlink" title="3.7 广域网"></a>3.7 广域网</h3><p><img src="https://img-blog.csdnimg.cn/f759b3c8bfe34251b6c6fb7fe010edde.png" alt="在这里插入图片描述"></p><h3 id="3-8-数据链路层设备"><a href="#3-8-数据链路层设备" class="headerlink" title="3.8 数据链路层设备"></a>3.8 数据链路层设备</h3><p><img src="https://img-blog.csdnimg.cn/e91f1773aedd470ebf943604a2935103.png" alt="在这里插入图片描述"></p><p><img src="https://img-blog.csdnimg.cn/03f1b657e08d4818b519d0e3575ee09b.png" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机网络 数据链路层 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【操作系统】第三章 内存管理</title>
       <link href="/posts/a575ca89.html"/>
       <url>/posts/a575ca89.html</url>
