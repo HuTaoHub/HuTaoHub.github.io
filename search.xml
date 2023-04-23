@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>【数据结构】第五章 树与二叉树</title>
+      <link href="/posts/246bf986.html"/>
+      <url>/posts/246bf986.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="知识体系"><a href="#知识体系" class="headerlink" title="知识体系"></a>知识体系</h3><p><img src="https://img-blog.csdnimg.cn/6ddfd3ee85af4ed9babf58a0fd451b74.png" alt="在这里插入图片描述"></p><h3 id="5-1-树的基本概念"><a href="#5-1-树的基本概念" class="headerlink" title="5.1 树的基本概念"></a>5.1 树的基本概念</h3><h4 id="5-1-1-树的定义"><a href="#5-1-1-树的定义" class="headerlink" title="5.1.1 树的定义"></a>5.1.1 树的定义</h4><p><img src="https://img-blog.csdnimg.cn/47db1cdae8bc482a89d70a9cf6aee0bf.png" alt="在这里插入图片描述"></p><h4 id="5-1-2-基本术语"><a href="#5-1-2-基本术语" class="headerlink" title="5.1.2 基本术语"></a>5.1.2 基本术语</h4><p><img src="https://img-blog.csdnimg.cn/ee2cdcd71dde49a395a0021cad87493b.png" alt="在这里插入图片描述"></p><h4 id="5-1-3-树的性质"><a href="#5-1-3-树的性质" class="headerlink" title="5.1.3 树的性质"></a>5.1.3 树的性质</h4><p><img src="https://img-blog.csdnimg.cn/93f72bef9641450ba400fe2c3ed27587.png" alt="在这里插入图片描述"></p><h3 id="5-2-二叉树的概念"><a href="#5-2-二叉树的概念" class="headerlink" title="5.2 二叉树的概念"></a>5.2 二叉树的概念</h3><h4 id="5-2-1-二叉树的定义和主要特性"><a href="#5-2-1-二叉树的定义和主要特性" class="headerlink" title="5.2.1 二叉树的定义和主要特性"></a>5.2.1 二叉树的定义和主要特性</h4><p><img src="https://img-blog.csdnimg.cn/54d54eaf91324d07b6b03ec154c94ea9.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/592f8830e03444caacb19e11038f9741.png" alt="在这里插入图片描述"></p><h4 id="5-2-2-二叉树的存储结构"><a href="#5-2-2-二叉树的存储结构" class="headerlink" title="5.2.2 二叉树的存储结构"></a>5.2.2 二叉树的存储结构</h4><p><img src="https://img-blog.csdnimg.cn/dd85554db29d4b2fada764f8a8d848e2.png" alt="在这里插入图片描述"></p><h3 id="5-3-二叉树的遍历和线索二叉树"><a href="#5-3-二叉树的遍历和线索二叉树" class="headerlink" title="5.3 二叉树的遍历和线索二叉树"></a>5.3 二叉树的遍历和线索二叉树</h3><h4 id="5-3-1-二叉树的遍历"><a href="#5-3-1-二叉树的遍历" class="headerlink" title="5.3.1 二叉树的遍历"></a>5.3.1 二叉树的遍历</h4><p><img src="https://img-blog.csdnimg.cn/f9d983e13076493d84972740527665ef.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/0050311cdc894c92acf71af2a0821ca0.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/fab7c490f7604aad8e86ffdc5d1e3938.png" alt="在这里插入图片描述"></p><h4 id="5-3-2-线索二叉树"><a href="#5-3-2-线索二叉树" class="headerlink" title="5.3.2 线索二叉树"></a>5.3.2 线索二叉树</h4><p><img src="https://img-blog.csdnimg.cn/e45708be2b284566ab23e1f30952ba2c.png" alt="在这里插入图片描述"></p><h3 id="5-4-树、森林"><a href="#5-4-树、森林" class="headerlink" title="5.4 树、森林"></a>5.4 树、森林</h3><h4 id="5-4-1-树的存储结构"><a href="#5-4-1-树的存储结构" class="headerlink" title="5.4.1 树的存储结构"></a>5.4.1 树的存储结构</h4><p><img src="https://img-blog.csdnimg.cn/981d8bc7070341ea929fcc2e627d5cf8.png" alt="在这里插入图片描述"></p><h4 id="5-4-2-树、森林与二叉树的转换"><a href="#5-4-2-树、森林与二叉树的转换" class="headerlink" title="5.4.2 树、森林与二叉树的转换"></a>5.4.2 树、森林与二叉树的转换</h4><p><img src="https://img-blog.csdnimg.cn/533c14d9c4c8405eba458248b4f77e39.png" alt="在这里插入图片描述"></p><h4 id="5-4-3-树和森林的遍历"><a href="#5-4-3-树和森林的遍历" class="headerlink" title="5.4.3 树和森林的遍历"></a>5.4.3 树和森林的遍历</h4><p><img src="https://img-blog.csdnimg.cn/421a55bed4e4450eab4894349bcd8a3e.png" alt="在这里插入图片描述"></p><h3 id="5-5-树与二叉树的应用"><a href="#5-5-树与二叉树的应用" class="headerlink" title="5.5 树与二叉树的应用"></a>5.5 树与二叉树的应用</h3><h4 id="5-5-1-哈夫曼树和哈夫曼编码"><a href="#5-5-1-哈夫曼树和哈夫曼编码" class="headerlink" title="5.5.1 哈夫曼树和哈夫曼编码"></a>5.5.1 哈夫曼树和哈夫曼编码</h4><p><img src="https://img-blog.csdnimg.cn/b3ed928b2bcf45afaf99cd48ecb13a27.png" alt="在这里插入图片描述"></p><h4 id="5-5-2-并查集"><a href="#5-5-2-并查集" class="headerlink" title="5.5.2 并查集"></a>5.5.2 并查集</h4><p><img src="https://img-blog.csdnimg.cn/012729d99c3149d184d373d19be632c0.png" alt="在这里插入图片描述"><br><img src="https://img-blog.csdnimg.cn/480ad525a51e461fa7a02ce6a2a544f5.png" alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据结构 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 树与二叉树 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【计算机组成原理】第三章 存储系统</title>
+      <link href="/posts/51d2bf7a.html"/>
+      <url>/posts/51d2bf7a.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="知识体系"><a href="#知识体系" class="headerlink" title="知识体系"></a>知识体系</h3><p><img src="https://img-blog.csdnimg.cn/02bc84780b324edd91382fb94c2ca3b7.png" alt="在这里插入图片描述"></p><h3 id="3-1-存储器概述"><a href="#3-1-存储器概述" class="headerlink" title="3.1 存储器概述"></a>3.1 存储器概述</h3><h4 id="3-1-1-存储器的分类"><a href="#3-1-1-存储器的分类" class="headerlink" title="3.1.1 存储器的分类"></a>3.1.1 存储器的分类</h4><p><img src="https://img-blog.csdnimg.cn/943b895dd00c4eddb6a9c7b30b85d29b.png" alt="在这里插入图片描述"></p><h4 id="3-1-2-存储器的性能指标"><a href="#3-1-2-存储器的性能指标" class="headerlink" title="3.1.2 存储器的性能指标"></a>3.1.2 存储器的性能指标</h4><p><img src="https://img-blog.csdnimg.cn/918dfcd2876b42718c24337c413fdc25.png" alt="在这里插入图片描述"></p><h4 id="3-1-3-多级层次的存储系统"><a href="#3-1-3-多级层次的存储系统" class="headerlink" title="3.1.3 多级层次的存储系统"></a>3.1.3 多级层次的存储系统</h4><p><img src="https://img-blog.csdnimg.cn/7d80e4a9abb94e888bdb40e1d97d61ee.png" alt="在这里插入图片描述"></p><h3 id="3-2-主存储器"><a href="#3-2-主存储器" class="headerlink" title="3.2 主存储器"></a>3.2 主存储器</h3><h4 id="3-2-1-SRAM芯片和DRAM芯片"><a href="#3-2-1-SRAM芯片和DRAM芯片" class="headerlink" title="3.2.1 SRAM芯片和DRAM芯片"></a>3.2.1 SRAM芯片和DRAM芯片</h4><p><img src="https://img-blog.csdnimg.cn/4485f48ef08e4745b8250f719d5daf33.png" alt="在这里插入图片描述"></p><h4 id="3-2-2-只读存储器"><a href="#3-2-2-只读存储器" class="headerlink" title="3.2.2 只读存储器"></a>3.2.2 只读存储器</h4><p><img src="https://img-blog.csdnimg.cn/11a2c71c67a34c0aba20d6ed0ad857e5.png" alt="在这里插入图片描述"></p><h4 id="3-2-3-主存储器的基本组成"><a href="#3-2-3-主存储器的基本组成" class="headerlink" title="3.2.3 主存储器的基本组成"></a>3.2.3 主存储器的基本组成</h4><p><img src="https://img-blog.csdnimg.cn/533dcc09ae0b4416a832cf4d6a98592c.png" alt="在这里插入图片描述"></p><h4 id="3-2-4-多模块存储器"><a href="#3-2-4-多模块存储器" class="headerlink" title="3.2.4 多模块存储器"></a>3.2.4 多模块存储器</h4><p><img src="https://img-blog.csdnimg.cn/3ed77f445bd14d5d8cea1b13a2eded50.png" alt="在这里插入图片描述"></p><h3 id="3-3-主存储器与CPU的连接"><a href="#3-3-主存储器与CPU的连接" class="headerlink" title="3.3 主存储器与CPU的连接"></a>3.3 主存储器与CPU的连接</h3><h4 id="3-3-1-连接原理"><a href="#3-3-1-连接原理" class="headerlink" title="3.3.1 连接原理"></a>3.3.1 连接原理</h4><p><img src="https://img-blog.csdnimg.cn/763187c682d644fd9b46ba241801458a.png" alt="在这里插入图片描述"></p><h4 id="3-3-2-主存容量的扩展"><a href="#3-3-2-主存容量的扩展" class="headerlink" title="3.3.2 主存容量的扩展"></a>3.3.2 主存容量的扩展</h4><p><img src="https://img-blog.csdnimg.cn/70d5576af2924a529e03dec42e783e84.png" alt="在这里插入图片描述"></p><h4 id="3-3-3-存储芯片的地址分配和片选"><a href="#3-3-3-存储芯片的地址分配和片选" class="headerlink" title="3.3.3 存储芯片的地址分配和片选"></a>3.3.3 存储芯片的地址分配和片选</h4><p>待补充</p><h4 id="3-3-4-存储器与CPU的连接"><a href="#3-3-4-存储器与CPU的连接" class="headerlink" title="3.3.4 存储器与CPU的连接"></a>3.3.4 存储器与CPU的连接</h4><p>待补充</p><h3 id="3-4-外部存储器"><a href="#3-4-外部存储器" class="headerlink" title="3.4 外部存储器"></a>3.4 外部存储器</h3><h4 id="3-4-1-磁盘存储器"><a href="#3-4-1-磁盘存储器" class="headerlink" title="3.4.1 磁盘存储器"></a>3.4.1 磁盘存储器</h4><p>待补充</p><h4 id="3-4-2-固态硬盘"><a href="#3-4-2-固态硬盘" class="headerlink" title="3.4.2 固态硬盘"></a>3.4.2 固态硬盘</h4><p><img src="https://img-blog.csdnimg.cn/45b89ebf19c4418ea081197e8d5dcddd.png" alt="在这里插入图片描述"></p><h3 id="3-5-高速缓冲存储器"><a href="#3-5-高速缓冲存储器" class="headerlink" title="3.5 高速缓冲存储器"></a>3.5 高速缓冲存储器</h3><h4 id="3-5-1-程序访问的局部性原理"><a href="#3-5-1-程序访问的局部性原理" class="headerlink" title="3.5.1 程序访问的局部性原理"></a>3.5.1 程序访问的局部性原理</h4><p><img src="https://img-blog.csdnimg.cn/b149b3f6788a4607bd22d927698e0d56.png" alt="在这里插入图片描述"></p><h4 id="3-5-2-Cache的基本工作原理"><a href="#3-5-2-Cache的基本工作原理" class="headerlink" title="3.5.2 Cache的基本工作原理"></a>3.5.2 Cache的基本工作原理</h4><p><img src="https://img-blog.csdnimg.cn/c3a128b831ea450ea4a1a28f88253dd9.png" alt="在这里插入图片描述"></p><h4 id="3-5-3-Cache和主存的映射方式"><a href="#3-5-3-Cache和主存的映射方式" class="headerlink" title="3.5.3 Cache和主存的映射方式"></a>3.5.3 Cache和主存的映射方式</h4><p><img src="https://img-blog.csdnimg.cn/d46ca1899d7543729871808ede144d52.png" alt="在这里插入图片描述"></p><h4 id="3-5-4-Cache中主存块的替换算法"><a href="#3-5-4-Cache中主存块的替换算法" class="headerlink" title="3.5.4 Cache中主存块的替换算法"></a>3.5.4 Cache中主存块的替换算法</h4><p><img src="https://img-blog.csdnimg.cn/7d2da189debf4a6d9537d505fd19881a.png" alt="在这里插入图片描述"></p><h4 id="3-5-5-Cache写策略"><a href="#3-5-5-Cache写策略" class="headerlink" title="3.5.5 Cache写策略"></a>3.5.5 Cache写策略</h4><p><img src="https://img-blog.csdnimg.cn/d4d8a50c24ad4b758b0ff20c0c4da72a.png" alt="在这里插入图片描述"></p><h3 id="3-6-虚拟存储器"><a href="#3-6-虚拟存储器" class="headerlink" title="3.6 虚拟存储器"></a>3.6 虚拟存储器</h3><p>待补充</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机组成原理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 存储系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【计算机网络】第三章 数据链路层</title>
       <link href="/posts/f3e28c67.html"/>
       <url>/posts/f3e28c67.html</url>
